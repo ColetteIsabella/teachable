@@ -1,0 +1,43 @@
+html {
+  background-color:#cccad0;
+  font-family:Helvetica, sans-serif;
+}
+
+header h1 {
+  color:#eeeeee;
+  text-align:center;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+  border-radius: 20px;
+  background-color:#331f3a;
+}
+
+header h3{
+  background-color:#646076;
+  text-align:center;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+  border-radius: 10px;
+}
+nav {
+  text-align:center;
+}
+#answer {
+  border:solid .5em #331f3a;
+}
+
+.topics {
+  border:solid .5em #331f3a;
+  padding:.5%;
+  font-weight:bold;
+}
+
+footer {
+ position:static;
+ bottom:20px;
+ left: 20px;
+
+-webkit-box-shadow: 3px 3px 5px #282b1f;
+-moz-box-shadow: 3px 3px 5px #282b1f;
+ box-shadow: 3px 3px 5px #282b1f;
+}
